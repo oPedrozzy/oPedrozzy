@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **p.hffranco28@gmail.com**
 
-## Olá! Eu sou o Pedro Franco, universitário front-end!
 
 <div align="center">
   <a href="https://github.com/oPedrozzy">
